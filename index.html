@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brand Filter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="brandPage">
+      <div class="brandScetion">
+        <input type="text" id="searchInput" placeholder="Search Brands..." />
+
+        <!-- Mobile Dropdown -->
+        <div class="custom-dropdown" id="mobileDropdownWrapper">
+          <button id="dropdownToggle">ALL ▼</button>
+          <ul id="dropdownMenu" class="dropdown-hidden">
+            <li class="all" data-letter="ALL">ALL</li>
+            <li data-letter="A">A</li>
+            <li data-letter="B">B</li>
+            <li data-letter="C">C</li>
+            <li data-letter="D">D</li>
+            <li data-letter="E">E</li>
+            <li data-letter="F">F</li>
+            <li data-letter="G">G</li>
+            <li data-letter="H">H</li>
+            <li data-letter="I">I</li>
+            <li data-letter="J">J</li>
+            <li data-letter="K">K</li>
+            <li data-letter="L">L</li>
+            <li data-letter="M">M</li>
+            <li data-letter="N">N</li>
+            <li data-letter="O">O</li>
+            <li data-letter="P">P</li>
+            <li data-letter="Q">Q</li>
+            <li data-letter="R">R</li>
+            <li data-letter="S">S</li>
+            <li data-letter="T">T</li>
+            <li data-letter="U">U</li>
+            <li data-letter="V">V</li>
+            <li data-letter="W">W</li>
+            <li data-letter="X">X</li>
+            <li data-letter="Y">Y</li>
+            <li data-letter="Z">Z</li>
+          </ul>
+        </div>
+
+        <!-- Desktop Filter -->
+        <div id="alphabetFilter">
+          <button class="all">ALL</button>
+          <button>A</button>
+          <button>B</button>
+          <button>C</button>
+          <button>D</button>
+          <button>E</button>
+          <button>F</button>
+          <button>G</button>
+          <button>H</button>
+          <button>I</button>
+          <button>J</button>
+          <button>K</button>
+          <button>L</button>
+          <button>M</button>
+          <button>N</button>
+          <button>O</button>
+          <button>P</button>
+          <button>Q</button>
+          <button>R</button>
+          <button>S</button>
+          <button>T</button>
+          <button>U</button>
+          <button>V</button>
+          <button>W</button>
+          <button>X</button>
+          <button>Y</button>
+          <button>Z</button>
+        </div>
+      </div>
+    </div>
+    <div id="brand-search-filter">
+      <div id="brandGrid"></div>
+      <button id="loadMoreBtn">Load More</button>
+    </div>
+
+    <script src="brand.js"></script>
+  </body>
+</html>
