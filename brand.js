@@ -240,12 +240,12 @@ const allBrands = [
     url: "/collections/marc-jacobs",
   },
   {
-    name: "Maitre Parfumeur Et Gantier",
+    name: "Maitre Parfumeur",
     img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/maitre-parfumeur-et-gantier.png?v=1741690377",
     url: "/collections/maitre-parfumeur-et-gantier",
   },
   {
-    name: "Maison Francis Kurkdjian",
+    name: "Maison Francis",
     img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/maison-francis-kurkdjian.png?v=1741690377",
     url: "/collections/maison-francis-kurkdjian",
   },
@@ -298,6 +298,131 @@ const allBrands = [
     name: "Jacques Bogart",
     img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/jacques-bogart.png?v=1741690377",
     url: "/collections/jacques-bogart",
+  },
+  {
+    name: "Jean Paul",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/jean-paul-gaultter.png?v=1741690377",
+    url: "/collections/jean-paul-gaultter",
+  },
+  {
+    name: "Histoires",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/histoires-de-parfums.png?v=1741690377",
+    url: "/collections/histoires-de-parfums",
+  },
+  {
+    name: "Guess",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/guess.png?v=1741690377",
+    url: "/collections/guess",
+  },
+  {
+    name: "Gucci",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/xOCdyUZf1L24uyIZmbzAO1CwUEvHr0zpxfReNB5p.png?v=1741690377",
+    url: "/collections/gucci",
+  },
+  {
+    name: "Givenchy",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/givenchy.png?v=1741690377",
+    url: "/collections/givenchy",
+  },
+  {
+    name: "Eutopie",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/SsAz32NiMaaDcsI1cyFbIhjhy8iawWsX4ETWKBlM.jpg?v=1741690377",
+    url: "/collections/eutopie",
+  },
+  {
+    name: "Etienne Aigner",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/etienne-aigner.png?v=1741690377",
+    url: "/collections/etienne-aigner",
+  },
+  {
+    name: "Escentric Molecule",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/escentric-molecule.png?v=1741690377",
+    url: "/collections/escentric-molecule",
+  },
+  {
+    name: "Escada",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/escada.png?v=1741690377",
+    url: "/collections/escada",
+  },
+  {
+    name: "Emanuel Ungaro",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/emanuel-ungaro.png?v=1741690377",
+    url: "/collections/emanuel-ungaro",
+  },
+  {
+    name: "Elizabeth Arden",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/elizabeth-arden.png?v=1741690377",
+    url: "/collections/elizabeth-arden",
+  },
+  {
+    name: "Elie Saab",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/5BljevxRx68v81UoNOBUCaokApySaPtSS5HoZLUX.png?v=1741690377",
+    url: "/collections/elie-saab",
+  },
+  {
+    name: "Dunhill",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/pPNwwgLptppVk05BHpWhKVN5js5PvnBTrE11xbQx.png?v=1741690377",
+    url: "/collections/dunhill",
+  },
+  {
+    name: "Dolce Gabbana",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/lx5snneb5NVeYbHcuIR1BkaR7hyJ9HdwTlt1sxYr.png?v=1741690377",
+    url: "/collections/dolce-gabbana",
+  },
+  {
+    name: "Ormonde Jayne",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/QJPzM3y7uy5W5TUDxdnH6Sy8S8vYceMrG5sX3ux0.jpg?v=1741690377",
+    url: "/collections/ormonde-jayne",
+  },
+  {
+    name: "Davidoff",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/davidoff.png?v=1741690377",
+    url: "/collections/davidoff",
+  },
+  {
+    name: "Creed",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/9RnLMA7bGQdNhSJuVh609cufFFj5fdHP46rpA9UV.png?v=1741690377",
+    url: "/collections/creed",
+  },
+  {
+    name: "Alexandre J",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/VJf5DtUv6fvMoimLJz4jHZ0nN8rXaXVtPQAAK364.png?v=1741690377",
+    url: "/collections/alexandre-j",
+  },
+  {
+    name: "Byredo",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/byredo.png?v=1741690377",
+    url: "/collections/byredo",
+  },
+  {
+    name: "Boucheron",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/HlsUogiteMLE2glf0Av4Tpg50vB6z0xDz7Fm6MSp.png?v=1741690377",
+    url: "/collections/boucheron",
+  },
+  {
+    name: "Bentley",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/bentley.jpg?v=1741690377",
+    url: "/collections/bentley",
+  },
+  {
+    name: "Azzaro",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/49xED3S76BcQcEKi0IrrXJSakTxy1pEU5xMpPIUX.png?v=1741690377",
+    url: "/collections/azzaro",
+  },
+  {
+    name: "Aramis",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/5XBWtFxaHnc5ta4X3axm5NZ8ixXGwVNTu8JzXucO.jpg?v=1741690377",
+    url: "/collections/aramis",
+  },
+  {
+    name: "Six Scents",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/six-scents.png?v=1741690377",
+    url: "/collections/six-scents",
+  },
+  {
+    name: "Sezan",
+    img: "https://cdn.shopify.com/s/files/1/0694/6658/7188/files/cHOU0N4eIXU4f0q2r6NXDa0ZwA9dgDFq2ZrN6czh.webp?v=1741690377",
+    url: "/collections/sezan",
   },
 ];
 
